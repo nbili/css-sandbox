@@ -6,4 +6,10 @@ Maybe some tricky problem.
 
 ## some jsbin save link
 
--  https://jsbin.com/jezuwacofa/edit?html,output
+#### box-sizing
+
+-  https://jsbin.com/rahefipaxe/1/edit?html,css,output
+
+#### border follow color
+
+- https://jsbin.com/ponubagavo/1/edit?html,css,output

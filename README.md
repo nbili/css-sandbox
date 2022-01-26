@@ -13,3 +13,7 @@ Maybe some tricky problem.
 #### border follow color
 
 - https://jsbin.com/ponubagavo/1/edit?html,css,output
+
+#### center
+
+- https://jsbin.com/zukoqelito/edit?html,css,output

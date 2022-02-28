@@ -29,6 +29,11 @@ Maybe some tricky problem.
 #### understand scroll container
 - https://jsbin.com/zijekavamo/1/edit?html,css,output
 
+#### flexbox and truncated text
+
+- https://css-tricks.com/flexbox-truncated-text
+
 ## hsl
 
 https://hsl-css-viewer.vercel.app/
+

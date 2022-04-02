@@ -33,6 +33,14 @@ Maybe some tricky problem.
 
 - https://css-tricks.com/flexbox-truncated-text
 
+#### hsl
+
+- https://jsbin.com/dacunatino/edit?html,css,output
+
+#### border color with font color
+
+- https://jsbin.com/dacunatino/1/edit?html,css,output
+
 ## hsl
 
 https://hsl-css-viewer.vercel.app/

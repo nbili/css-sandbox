@@ -45,3 +45,6 @@ Maybe some tricky problem.
 
 https://hsl-css-viewer.vercel.app/
 
+## CSS mistake link
+
+https://wiki.csswg.org/ideas/mistakes

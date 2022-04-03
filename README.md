@@ -41,6 +41,10 @@ Maybe some tricky problem.
 
 - https://jsbin.com/dacunatino/1/edit?html,css,output
 
+#### mock fit-content
+
+- https://jsbin.com/komojojale/1/edit?html,css,output
+
 ## hsl
 
 https://hsl-css-viewer.vercel.app/

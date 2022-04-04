@@ -45,6 +45,10 @@ Maybe some tricky problem.
 
 - https://jsbin.com/komojojale/1/edit?html,css,output
 
+#### fixed margin collapse by padding or border
+
+- https://jsbin.com/guxisexowu/1/edit?html,css,output
+
 ## hsl
 
 https://hsl-css-viewer.vercel.app/

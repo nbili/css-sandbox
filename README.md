@@ -49,6 +49,10 @@ Maybe some tricky problem.
 
 - https://jsbin.com/guxisexowu/1/edit?html,css,output
 
+#### flexbox case
+
+- https://jsbin.com/yedijufage/1/edit?html,css,output
+
 ## hsl
 
 https://hsl-css-viewer.vercel.app/

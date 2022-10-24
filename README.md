@@ -2,13 +2,13 @@
 
 This repo just save some css test.
 
-Maybe some tricky problem. 
+Maybe some tricky problem.
 
 ## some jsbin save link
 
 #### box-sizing
 
--  https://jsbin.com/rahefipaxe/1/edit?html,css,output
+- https://jsbin.com/rahefipaxe/1/edit?html,css,output
 
 #### border follow color
 
@@ -24,9 +24,10 @@ Maybe some tricky problem.
 
 #### scroll overflow
 
-- https://jsbin.com/yagiwapabo/1/edit?html,css,output 
+- https://jsbin.com/yagiwapabo/1/edit?html,css,output
 
 #### understand scroll container
+
 - https://jsbin.com/zijekavamo/1/edit?html,css,output
 
 #### flexbox and truncated text
@@ -64,3 +65,9 @@ https://hsl-css-viewer.vercel.app/
 ## CSS mistake link
 
 https://wiki.csswg.org/ideas/mistakes
+
+## curves
+
+https://easings.net/zh-cn
+
+https://cubic-bezier.com/#.17,.67,.83,.67
